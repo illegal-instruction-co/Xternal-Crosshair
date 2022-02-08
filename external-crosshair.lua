@@ -1,3 +1,4 @@
+local activeXui = true
 local xuiWidth, xuiHeight = GetActiveScreenResolution()
 local xuiHandle = FiveX.CreateXui("https://raw.githubusercontent.com/illegal-instruction-co/Xternal-Crosshair/main/index.html", xuiWidth, xuiHeight)
 
